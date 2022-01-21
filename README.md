@@ -6,7 +6,7 @@
 
 - Add and commit all files:
 
-test_gccalc.py gccalc.py
+      test_gccalc.py gccalc.py
 
 - Create an empty repository on Github
 
