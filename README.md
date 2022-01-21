@@ -32,6 +32,6 @@ On Github:
 
 - Create a README.md and add the line:
 
-![Unit testing](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+"![Unit testing](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)"
 
 - Change the name in the yml file to "Unit Testing"
